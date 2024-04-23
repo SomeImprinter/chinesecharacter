@@ -45,7 +45,7 @@ body {
     background: #d0a5a5;
   }
   img {
-    font-weight: 200px;
+    font-weight: 25%;
     height: 200px;
   }
  
@@ -315,4 +315,14 @@ footer {
 .social-icons-7 a:hover:after {
     top: 0;
     transition: all 0.2s linear 0s;
+}
+.grid1 iframe{
+  width: 100%;
+
+}
+.grid1 img{
+  width: 100%;
+}
+.grid img{
+  width: 95%;
 }
